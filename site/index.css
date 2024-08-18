@@ -1,0 +1,32 @@
+body{
+    background-image: url('image-removebg-preview\ \(18\).png');
+    background-size: cover; 
+
+    background-position: center; 
+ 
+    color: white; 
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.order .border{display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    height: 70px;
+    border-radius: 30px;
+}
+.border{margin-left: 170px;
+    display: flex;text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.border a {
+text-decoration: none;
+color: #fff;
+}
